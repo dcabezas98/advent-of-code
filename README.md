@@ -1,2 +1,4 @@
 # advent-of-code
-Problems from Advent of Code calendar
+Problems from Advent of Code calendar.
+
+http://adventofcode.com/
