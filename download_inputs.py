@@ -1,6 +1,6 @@
-import requests
+import requests, sys
 
-year = str(2016)
+year = sys.argv[1]
 
 for day in range(1, 26):
 
