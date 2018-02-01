@@ -61,4 +61,3 @@ with open("input.txt") as f:
         tower.append(l)
 
 findWrong("mkxke") # Find the program with wrong weight
-
