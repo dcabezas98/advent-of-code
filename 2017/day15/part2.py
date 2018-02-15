@@ -1,5 +1,4 @@
 # Input:
-
 prevA = 116
 prevB = 299
 
