@@ -1,4 +1,3 @@
-import time
 programs = list(map(chr,range(ord('a'), ord('q'))))
                 
 with open("input.txt") as f:
@@ -23,7 +22,6 @@ for move in dance:
     else:
         i = programs.index(move[1])
         j = programs.index(move[3])
-        
         programs[i], programs[j] = programs[j], programs[i]
 
 result = ''.join(programs)
